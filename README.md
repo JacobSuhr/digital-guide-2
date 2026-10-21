@@ -5,9 +5,8 @@ En mobilapp i React Native, der forklarer ældre brugere trin for trin, hvordan 
 Udviklet til obligatorisk opgave 1 og 2 i Innovation og ny teknologi, HA(it.), CBS.
 Kodet af Jacob Manniche Suhr (individuel opgave).
 
-**Demovideo iteration 2:** [INDSÆT LINK]
+**Demovideo iteration 2:** https://youtube.com/shorts/VBOAM8M91xY
 Demovideo iteration 1: https://youtube.com/shorts/zOVdeivcsgA?feature=share
-
 
 
 ## Sådan kører du appen
